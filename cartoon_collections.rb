@@ -4,6 +4,7 @@ def roll_call_dwarves(array)# code an argument here
   array.each do |array|
     puts "#{name}"
     i = i + 1
+ end
 end
 
 def summon_captain_planet# code an argument here
@@ -18,4 +19,4 @@ def find_the_cheese# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
-end 
+
